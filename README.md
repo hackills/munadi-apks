@@ -4,6 +4,8 @@ Simple and lightweight, beautifully designed, and privacy-focused by default: ac
 
 This repository hosts signed APK releases for **Munadi**. The source repository is private.
 
+**Website:** https://munadi-prayer.vercel.app/
+
 ## Download
 
 Get the latest signed APK from the [Releases page](https://github.com/hackills/munadi-apks/releases/latest).
