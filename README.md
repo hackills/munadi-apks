@@ -1,7 +1,8 @@
 # Munadi APK
 
-Signed APK releases for **Munadi**, a lightweight, privacy-focused prayer-times app for Qatar.
-The source repository is private.
+Simple and lightweight, beautifully designed, and privacy-focused by default: accurate offline Qatar timings, iqama, qibla, adhan and widget—all in one, in Arabic and English, with no ads and no trackers.
+
+This repository hosts signed APK releases for **Munadi**. The source repository is private.
 
 ## Download
 
