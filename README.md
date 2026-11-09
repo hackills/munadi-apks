@@ -1,6 +1,10 @@
 # Munadi APK
 
-Simple and lightweight, beautifully designed, and privacy-focused by default: accurate offline Qatar timings, iqama, qibla, adhan and widget—all in one, in Arabic and English, with no ads and no trackers.
+Simple and lightweight, beautifully designed, and privacy-focused by default: accurate offline prayer times, iqamah, qibla, adhan and widget—all in one, in Arabic and English, with no ads and no trackers.
+
+Munadi began in Qatar, where it follows the Qatar Calendar House timetable. It also
+covers Saudi Arabia, the United Arab Emirates, Kuwait, Oman and Pakistan, where prayer
+times are calculated on your phone for the city you choose.
 
 This repository hosts signed APK releases for **Munadi**. The source repository is private.
 
@@ -9,7 +13,12 @@ This repository hosts signed APK releases for **Munadi**. The source repository 
 ## Download
 
 Get the latest signed APK from the [Releases page](https://github.com/hackills/munadi-apks/releases/latest).
-Each release provides a `munadi-<version>.apk` asset.
+Each release provides a `munadi-<version>.apk` asset and a `SHA256SUMS.txt` file.
+To check a download:
+
+```sh
+sha256sum -c SHA256SUMS.txt
+```
 
 ## Privacy
 
@@ -27,4 +36,5 @@ and the `LICENSE-*` files.
 
 ## Support
 
-Open an issue at https://github.com/hackills/munadi-apks/issues.
+Email munadi.prayer@gmail.com, or open an issue at
+https://github.com/hackills/munadi-apks/issues.
