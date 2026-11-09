@@ -63,7 +63,7 @@ policy.
 
 Depending on the features you use, the app may request:
 
-- Approximate location, for Qibla
+- Approximate location, for Qibla and the prayer-time area
 - Notifications, for adhan and update alerts
 - Exact alarms, to keep prayer reminders on time
 - Battery optimisation exemption, so alarms are not delayed
